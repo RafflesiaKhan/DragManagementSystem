@@ -1,0 +1,4 @@
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\Entity\bin\Debug\Entity.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\Entity\bin\Debug\Entity.pdb
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\Entity\obj\Debug\Entity.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\Entity\obj\Debug\Entity.pdb

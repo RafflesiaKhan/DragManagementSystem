@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="green_sliderRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_sliderRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_boxCheckmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_boxCheckmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_boxCross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_boxCross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_boxTick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_boxTick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button00.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button09.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_button13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_button13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_checkmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_checkmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_cross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_cross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_sliderDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_sliderDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_sliderLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_sliderLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_sliderRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_sliderRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_sliderUp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_sliderUp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue_tick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue_tick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dropdownBottom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dropdownBottom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dropdownMid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dropdownMid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dropdownTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dropdownTop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_boxCheckmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_boxCheckmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_boxCross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_boxCross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_boxTick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_boxTick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button00.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button09.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_button13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_button13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_checkmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_checkmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_cross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_cross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_sliderDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_sliderDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_sliderLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_sliderLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_sliderRight1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_sliderRight1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_sliderUp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_sliderUp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_tick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green_tick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_arrowDownGrey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_arrowDownGrey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_arrowDownWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_arrowDownWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_arrowUpGrey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_arrowUpGrey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_arrowUpWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_arrowUpWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_box" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_box.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_boxCheckmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_boxCheckmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_boxCross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_boxCross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_boxTick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_boxTick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button00.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button09.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_button15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_button15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_checkmarkGrey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_checkmarkGrey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_checkmarkWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_checkmarkWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_crossGrey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_crossGrey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_crossWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_crossWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_sliderDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_sliderDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_sliderEnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_sliderEnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_sliderHorizontal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_sliderHorizontal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_sliderLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_sliderLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_sliderRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_sliderRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_sliderUp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_sliderUp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_sliderVertical" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_sliderVertical.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_tickGrey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_tickGrey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grey_tickWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grey_tickWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_boxCheckmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_boxCheckmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_boxCross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_boxCross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_boxTick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_boxTick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button00.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button09.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_button13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_button13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_checkmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_checkmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_cross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_cross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_sliderDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_sliderDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_sliderLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_sliderLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_sliderRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_sliderRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_sliderUp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_sliderUp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_tick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_tick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_boxCheckmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_boxCheckmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_boxCross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_boxCross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_boxTick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_boxTick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button00.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button09.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_button13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_button13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_checkmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_checkmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_cross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_cross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_sliderDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_sliderDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_sliderLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_sliderLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_sliderRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_sliderRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_sliderUp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_sliderUp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow_tick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow_tick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

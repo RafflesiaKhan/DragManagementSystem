@@ -1,0 +1,9 @@
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\bin\Debug\BLL.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\bin\Debug\BLL.pdb
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\bin\Debug\DLL.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\bin\Debug\DLL.pdb
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\obj\Debug\BLL.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\obj\Debug\BLL.pdb
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\bin\Debug\Entity.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\BLL\bin\Debug\Entity.pdb

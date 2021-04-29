@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B97BE5F2-FF3B-4DD7-AB01-6DBEB83F5DF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyThread.cs" />
+    <Compile Include="Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner.Designer.cs">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_DemoDataSet.cs">
+      <DependentUpon>Pharmacy_DemoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_DemoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pharmacy_DemoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shopping Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shopping Cart.Designer.cs">
+      <DependentUpon>Shopping Cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff.Designer.cs">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner.resx">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Shopping Cart.resx">
+      <DependentUpon>Shopping Cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff.resx">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Pharmacy_DemoDataSet.xsc">
+      <DependentUpon>Pharmacy_DemoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Pharmacy_DemoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Pharmacy_DemoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Pharmacy_DemoDataSet.xss">
+      <DependentUpon>Pharmacy_DemoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{189fb7f9-5df5-44a5-ad80-0c2deb350cd1}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{f7f7638f-9edd-4e77-84e5-587c58b33c3c}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_sliderRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_boxCheckmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_boxCross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_boxTick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_button13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_checkmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_sliderDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_sliderLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_sliderRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_sliderUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dropdownBottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dropdownMid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dropdownTop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_boxCheckmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_boxCross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_boxTick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_button13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_checkmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_sliderDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_sliderLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_sliderRight1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_sliderUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_arrowDownGrey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_arrowDownWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_arrowUpGrey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_arrowUpWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_boxCheckmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_boxCross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_boxTick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_button15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_checkmarkGrey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_checkmarkWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_crossGrey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_crossWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_sliderDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_sliderEnd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_sliderHorizontal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_sliderLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_sliderRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_sliderUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_sliderVertical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_tickGrey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_tickWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_boxCheckmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_boxCross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_boxTick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_button13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_checkmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_sliderDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_sliderLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_sliderRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_sliderUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_boxCheckmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_boxCross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_boxTick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_checkmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_sliderDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_sliderLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_sliderRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_sliderUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_tick.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,2181 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-51902.94106179458" y="-28958.51499256237" width="103805.88212358917" height="57917.02998512474"/>
+      <aspectratio>16:9</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <spellcheck active="true"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="0_30863873" type="button" x="2.6425568739224436e-12" y="0" r="0" s="96.6895325294236" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="1_30863873" type="button" x="-22668.64835520149" y="317.1594871690692" r="4.838200082471907e-17" s="19.317100813388233" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_30863873" type="text" x="-22701.7073427007" y="274.29858503673194" r="1.9017673269926548e-17" s="18.461217456867978" class="strong">
+      <height>394.128</height>
+      <width>636.4940270725323</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Pharmacy Management System is designed to fill the void when a Pharmacy want to run  its business and HR management automated.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[This can handle daily business including inventory management, order placement, HR personnel management, supply chain management as well as information management  of all other related stakeholders such as Doctor, Patient , Hospital, Diseases etc.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[This system reduce the manula task which is time consuming and prone to error as well as vulnerable to theft and misinformation.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="12_30863873" type="button" x="-1003.4287047477502" y="484.0831198614425" r="0.10623393197718473" s="19.281364457434336" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="21_30863873" type="image" x="-9163.415677932677" y="-4463.4594334670555" r="-7.917415713623748e-17" s="15.666217529753794">
+      <source w="264" h="264">4252574312<url>4252574312.swf</url></source>
+      <sourceUrl>clockwork-04.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    <resource><id>4252574312</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/7/a/aecc9313a0dca4c18c7dbf8f3a555874beeee.swf</url></resource></object>
+    <object id="14_30863873" type="text" x="-780.1034492133233" y="1613.3269180982347" r="0.10623393197718432" s="24.526422813154788" class="body">
+      <height>358.76953125</height>
+      <width>532.2996937865631</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Goal of conceptual model is to provide a view of the potential database application that is completely independent of physical system. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[This is an opportunity to create "perfect world" prototype that may lead to improved database.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[This provides ways to describe how data will be used by system. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[This describes different kinds of functionality that the database application can provide. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Different tools used for conceptual data model]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="5">
+        <text><![CDATA[ER Diagram]]></text>
+      </p>
+      <p listType="bullet" indent="5">
+        <text><![CDATA[Relational Schema]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="22_30863873" type="image" x="-13147.889154961003" y="-9066.386043818417" r="-6.651098330633779e-17" s="15.540786232733026">
+      <source w="514" h="514">4252574324<url>4252574324.swf</url></source>
+      <sourceUrl>clockwork-03.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    <resource><id>4252574324</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/9/2/7278e3a45ce9c40bfa3825e7daebd8f8f720b.swf</url></resource></object>
+    <object id="23_30863873" type="image" x="17373.559992808237" y="6243.835433960243" r="0" s="13.261452986895357">
+      <source w="514" h="514">4252574324<url>4252574324.swf</url></source>
+      <sourceUrl>clockwork-03.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    <resource><id>4252574324</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/9/2/7278e3a45ce9c40bfa3825e7daebd8f8f720b.swf</url></resource></object>
+    <object id="27_30863873" type="button" x="5114.844060167705" y="10874.756147190388" r="0.1062339319771846" s="8.719999224482828" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="31_30863873" type="button" x="-3260.41453281969" y="12182.946582993103" r="0.10623393197718464" s="8.719999224482828" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="54" type="image" x="-3321.818238582999" y="12518.175083829554" r="0.10623393197718466" s="6.804710267229163">
+      <source w="650" h="678">4445234561<url>4445234561.png</url></source>
+      <sourceUrl>rs.png</sourceUrl>
+    <resource><id>4445234561</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/b/9/39a75f29b200506f0667c56f6050d81ce71b9.png</url></resource></object>
+    <object id="34_30863873" type="shape" x="-11778.80876411475" y="559.2864077367831" r="1.2424041724466847e-17" s="66.55695443502073" class="line3">
+      <geom type="arrow">
+        <sp>-44.52480409356939 0</sp>
+        <ep>44.52480409356939 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="35_30863873" type="shape" x="9983.466445363843" y="152.27665189656688" r="0" s="66.55695443502066" class="line3">
+      <geom type="arrow">
+        <sp>-48.31550422450441 0</sp>
+        <ep>48.31550422450441 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="36_30863873" type="button" x="-22036.689809543324" y="12147.2139517679" r="0.10623393197718464" s="8.719999224482828" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="38_30863873" type="text" x="-22085.74431805112" y="12666.369372118534" r="0.1062339319771844" s="11.092077450337545" class="body">
+      <height>358.76953125</height>
+      <width>473.8956773107189</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Drug Inquiry]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[What Disease , Which Doctor , Which Supplier]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Order Inquiry]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Current Order , Quantity, Payment]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Inventory Inquiry]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[How many of What Drug is available]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Which drug is below minimum quantity]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[HR Personal Inquiry]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Who manages selling]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Who manages stock]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Supplier Inquiry]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Who sell What Drug at What Price]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="40_30863873" type="button" x="-14825.374662096903" y="9624.490187268526" r="0.10623393197718464" s="8.719999224482828" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="42_30863873" type="text" x="-14788.6922044895" y="10138.407890850278" r="0.1062339319771844" s="11.092077450337545" class="body">
+      <height>386.3671875</height>
+      <width>504.51106240430585</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[We have contacted "Nava Drug House" in order to get better understading of the business process and requirement analysis for our project.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Number of Employee : ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Medium Size Pharmacy]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Before the Solution]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Daily/Monthly Business : ??]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Daily/Monthly Transaction: ??]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Daily/Monthly Stock: ??]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[No Idea of  Business flow]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="43_30863873" type="text" x="-12308.278788189127" y="20420.227617856235" r="0" s="218.18741893536944" class="head">
+      <height>56.304</height>
+      <width>328.7878222131714</width>
+      <p>
+        <text><![CDATA[Pharmacy Management System]]></text>
+      </p>
+    </object>
+    <object id="21" type="button" x="-21241.638764782543" y="23591.34136755989" r="0" s="7.763789080244581" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="24" type="text" x="-20990.262659306" y="22211.591636066696" r="0" s="6.332256400588283" class="body">
+      <height>82.79296875</height>
+      <width>531.9983528742985</width>
+      <p align="center">
+        <text><![CDATA[Rafflesia Khan                  130233]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Rilus Mahmud                   130239]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="25" type="text" x="-21128.046610782425" y="21589.93788598822" r="0" s="12.889695452147214" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Team Members]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="26" type="text" x="-21241.54473154248" y="25354.840751763757" r="0" s="9.564082832711373" class="body">
+      <height>82.79296875</height>
+      <width>434.0077603105464</width>
+      <p align="center">
+        <text><![CDATA[Computer Science and Engineering Discipline, Khulna University,]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Khulna, Bangladesh]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="27" type="text" x="-20745.5" y="24148.3" r="0" s="9.564082832711373" class="body">
+      <style fontFamily="custom-sanchez" font-family="Sanchez"/>
+      <style fontFamily="custom-sanchez" font-family="Sanchez"/>
+      <height>122.688</height>
+      <width>612.9250767879964</width>
+      <p>
+        <text><![CDATA[Dr. Md. Anisur Rahman]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Professor ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="28" type="text" x="-19784.7" y="23881.35" r="0" s="9.564082832711373" class="body">
+      <style fontFamily="custom-sanchez" font-family="Sanchez"/>
+      <style fontFamily="custom-sanchez" font-family="Sanchez"/>
+      <height>61.344</height>
+      <width>-199.34400000000002</width>
+      <p>
+        <text><![CDATA[Md. Rafiqul Islam]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Professor]]></text>
+      </p>
+    </object>
+    <object id="29" type="text" x="-21190.95" y="22886.85" r="0" s="12.889695452147214" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>431.5375</width>
+      <p align="center">
+        <text><![CDATA[Supervisors]]></text>
+      </p>
+    </object>
+    <object id="30" type="button" x="-29396.389409814405" y="9825.815354250528" r="0" s="8.736197184881641" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="31" type="button" x="-34402.81314418563" y="4193.976540198173" r="0" s="8.736108530032933" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="32" type="button" x="-14479.050238932628" y="23591.34136755989" r="0" s="5.2578762418549365" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="33" type="text" x="-14458.550992598171" y="23784.297576175984" r="0" s="7.901680424650368" class="body">
+      <height>303.57421875</height>
+      <width>328.8412441937151</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Project Overview]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Company Overview]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Business Process]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Problem Domain]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Objective]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Requirement Analysis]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Conceptual Data Model]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Logical Data Model]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Physical Data Model]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Application  & Scope]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Appendix]]></text>
+      </p>
+    </object>
+    <object id="34" type="text" x="-14503.87501431014" y="22179.05613500375" r="0" s="9.564082832711373" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Outline]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="36" type="text" x="-22747.445627231664" y="-5095.0177681288515" r="6.1162627818722695e-33" s="27.14428240624169" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Project Overview]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="37" type="text" x="-14849.283067157645" y="7274.068470971155" r="2.916375782463412e-17" s="12.818901104263205" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Company Overview]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="38" type="text" x="-22060.05854842564" y="9881.482734701567" r="2.916375782463412e-17" s="12.818901104263205" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Business Process]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="39" type="text" x="-29370.454658512917" y="7476.679809968229" r="0" s="12.842713039000568" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Problem Domain]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="40" type="text" x="-29349.278813728793" y="9911.573565089006" r="0" s="11.386703599541192" class="body">
+      <height>358.76953125</height>
+      <width>464.49450360005</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[A lot of manual task.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[No alert message to remind for the critical quantity of each drug.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[No way to make inquiry about the pharmacy data.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[No automated process in manipulating data such as add, insert, delete and search.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[There is a difficulty on store the data which wastes resources as well as time to retrieve the necessary data from the manually based data system.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[No Report generation is possible]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Impossible to analysis the business flow]]></text>
+      </p>
+    </object>
+    <object id="41" type="text" x="-34479.07410187942" y="1602.0443110099836" r="0" s="12.842582711266727" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Objective]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="42" type="text" x="-34224.55" y="4440.2" r="0" s="8.323340392063443" class="body">
+      <height>496.7578125</height>
+      <width>640.0290924750788</width>
+      <p>
+        <text><![CDATA[1. To develop a prototype of pharmacy management Information system.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2. To computerized the manual task in term of pharmacy stock inventory]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[3. To apply string match searching algorithm technique in order to search]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[4. The appropriate drugs based on the description of drugs. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[5. To analysis large volume of data regarding medicines, patients and supply chain.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[6. A summarized list of drugs dispensed to patient can be viewed for monitoring purposes.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="43" type="button" x="-34402.907177425695" y="-3504.900956992142" r="0" s="6.24019236108141" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="44" type="text" x="-34403.31017702597" y="-5343.922466289276" r="0" s="9.17344218606001" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Objective (2)]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="45" type="text" x="-34339.66497038147" y="-3261.7624979318116" r="0" s="6.892142889601809" class="body">
+      <height>441.5625</height>
+      <width>507.3996183904161</width>
+      <p>
+        <text><![CDATA[7. To generate report on the list of drugs dispensed in the polyclinic for a given time period.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[8. Automated decision based on data and automated alert for different notification required for Pharmacists.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[9. To ensure that the system is user friendly.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[10. To be able to generate report within a specified period of time.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[11. To ensure the expiry date of medicines.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[12. To give the facility to the customer to order medicine online.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[13. To maintain a timely selling amount. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[14. To provide the main use of a medicine.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[15. To provide functions on identify medication usages instruction, minimize human errors. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="46" type="button" x="-21633.851409099185" y="-11154.316969907572" r="0" s="8.73623531190462" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="47" type="text" x="-21561.727913968316" y="-13438.666470838814" r="0" s="12.84281906048401" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Requirement Analysis]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="48" type="image" x="-21561.351781008045" y="-10972.362650379237" r="0" s="6.811185899289246">
+      <source w="661" h="560">4445216189<url>4445216189.jpg</url></source>
+      <sourceUrl>use.jpg</sourceUrl>
+    <resource><id>4445216189</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/2/0/7c8ee8e6735a0fd5f99c9876e49b487b3ea87.jpg</url></resource></object>
+    <object id="49" type="text" x="-905.109386120366" y="-4357.399223433395" r="-4.431566739377567e-17" s="25.30802418436615" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>398.6332095303748</width>
+      <p align="center">
+        <text><![CDATA[Conceptual Data Model]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="51" type="text" x="5129.932696837626" y="8850.899587617578" r="0" s="11.092077450337545" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>397.5392853006875</width>
+      <p align="center">
+        <text><![CDATA[Entity Relational Diagram]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="52" type="image" x="5218.938856921126" y="11264.42989402524" r="0.10623393197718464" s="3.7908603631222073">
+      <source w="1360" h="1098">4445232392<url>4445232392.png</url></source>
+      <sourceUrl>erd.png</sourceUrl>
+    <resource><id>4445232392</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/7/1/6cd77e303c8cb07b80f7da725614467762428.png</url></resource></object>
+    <object id="53" type="text" x="-3242.0780510067566" y="9841.895038301873" r="0" s="12.818950983954055" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Relational Schema]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="55" type="button" x="-29399.86863969686" y="-9599.665411891016" r="0" s="8.736041341220325" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="56" type="text" x="-29300.099371986485" y="-11988.391809295876" r="0" s="12.842533911296462" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Scope of Project]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="58" type="text" x="-29113.18125839107" y="-9384.318083904313" r="0" s="9.64878580863746" class="body">
+      <height>386.3671875</height>
+      <width>516.4412608851168</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[This application will focus on drug profile and information management system]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[To integrate data collection and processing along with presentation of information that helps pharmacists to make evidence based decisions making for pharmaceutical services. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Automated report generation ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Inventory Management]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Finance Management]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Supply Management]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Staff Management]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Transaction Management ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Utilities]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Audit]]></text>
+      </p>
+    </object>
+    <object id="59" type="button" x="-1198.3596114052425" y="-11157.608133309895" r="0" s="9.224162227648504" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="60" type="text" x="-1293.6274196920888" y="-13099.232472710944" r="0" s="7.1480389040617585" class="body">
+      <height>82.79296875</height>
+      <width>645.6</width>
+      <p align="center">
+        <text><![CDATA[Goal of Logical data model is to construct data model for application thats based on a particular kind of model but still dependent of any DBMS as well as other physical system]]></text>
+      </p>
+    </object>
+    <object id="61" type="text" x="-1134.5071929824232" y="-13829.550893663773" r="-4.4315667393775653e-17" s="12.107302948046064" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>398.6332095303748</width>
+      <p align="center">
+        <text><![CDATA[Logical Data Model]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="62" type="text" x="-1087.1031575453223" y="-10675.445751315514" r="0" s="8.364056363092372" class="body body-background">
+      <height>386.3671875</height>
+      <width>733.1528284613354</width>
+      <p>
+        <text><![CDATA[Coustomer (cID, cName, sex, birthdate, cHome, cOffice, cCell, cStreet, cCity, cState, cZIP, cEmail, pID)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Staff (aID, aName, aPhone, aStreet, aCity, aState, aZIP, aEmail)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Supplier (sID, sName, sPhone, sWebsite, sStreet, sCity, sState, sZIP, sEmail)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Doctor (docID, docName, docAffiliation, docPhone, docStreet, docCity, docState, docZIP,docEmail)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Account (userID, password)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Prescription (pID, docID,pDate, pDisease, List<drugID>)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Drug (drugID, sID, expireDate, description, manufacturer, sideeffects)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Order (orderID, cID, date, amount, deliveryAddress, deliveryDate, deliverystatus, aID)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[MedicalHistory (mID,mDate,mDisease)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ShoppingCart (cID, orderID, aID)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="63" type="button" x="6509.639110071507" y="-8401.587900205968" r="0" s="9.224089688204904" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="64" type="text" x="6756.6570352513" y="-10985.744876323202" r="-4.431566739377567e-17" s="12.107207735386345" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>398.6332095303748</width>
+      <p align="center">
+        <text><![CDATA[Physical Data Model]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="65" type="image" x="6578.641303801391" y="-7702.928278224372" r="0" s="3.540625914952468">
+      <source w="1379" h="823">4445287025<url>4445287025.PNG</url></source>
+      <sourceUrl>account.PNG</sourceUrl>
+    <resource><id>4445287025</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/5/e/39ee89a909cb93c0e8e54aa17386db5ca0ff2.PNG</url></resource></object>
+    <object id="66" type="text" x="6657.671154461807" y="-10142.726708034765" r="0" s="9.096324369185831" class="body">
+      <height>82.79296875</height>
+      <width>561.0003656568006</width>
+      <p>
+        <text><![CDATA[Goal of Physical data model is to produce description of implenetation of the database into the DBMS ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Database was created in SQl Server]]></text>
+      </p>
+    </object>
+    <object id="67" type="button" x="39762.51976148605" y="-12035.220362848906" r="0" s="9.315167476794292" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="68" type="button" x="38809.617611385365" y="-14352.7559213407" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="69" type="button" x="40310.743146301305" y="-14464.73223884825" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="70" type="button" x="41781.211925909905" y="-13782.4155346527" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="71" type="button" x="42121.65063586432" y="-12598.50825653193" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="72" type="button" x="42121.69861200721" y="-11250.666498152672" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="73" type="button" x="41475.60389569435" y="-10256.744745880193" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="74" type="button" x="40091.060388003505" y="-9355.225044815745" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="75" type="image" x="38809.617611385365" y="-14352.707945197806" r="0" s="1.5951803489178225">
+      <source w="454" h="269">4445307056<url>4445307056.png</url></source>
+      <sourceUrl>login.png</sourceUrl>
+    <resource><id>4445307056</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/8/9bed58f70ac76d1f3a192535861416040e6a0.png</url></resource></object>
+    <object id="76" type="image" x="40310.743146301305" y="-14464.73223884825" r="0" s="0.6508440083738241">
+      <source w="640" h="765">4445307314<url>4445307314.png</url></source>
+      <sourceUrl>add_new_stuff.png</sourceUrl>
+    <resource><id>4445307314</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/1/e/48d03aae5d01fe10bb386dbe8ae8d359405c3.png</url></resource></object>
+    <object id="77" type="image" x="41781.163949767026" y="-13782.367558509806" r="0" s="0.5948574270083338">
+      <source w="648" h="837">4445307545<url>4445307545.png</url></source>
+      <sourceUrl>edit_stuff.png</sourceUrl>
+    <resource><id>4445307545</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/1/9/ae149d2220773dabfda3ff592fb5855f9d89d.png</url></resource></object>
+    <object id="78" type="image" x="42121.65063586432" y="-12598.50825653193" r="0" s="0.6035098986739095">
+      <source w="655" h="825">4445307731<url>4445307731.png</url></source>
+      <sourceUrl>add_customer.png</sourceUrl>
+    <resource><id>4445307731</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/4/d101c77f8ce6b1b167d43bc13ef75cb7030c3.png</url></resource></object>
+    <object id="79" type="image" x="42121.69861200721" y="-11250.666498152672" r="0" s="0.5998742968746689">
+      <source w="644" h="830">4445307935<url>4445307935.png</url></source>
+      <sourceUrl>edit_customer.png</sourceUrl>
+    <resource><id>4445307935</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/8/8/89b61eff130f027807c62ff6338d3f2a41b96.png</url></resource></object>
+    <object id="80" type="image" x="41475.60389569435" y="-10256.744745880193" r="0" s="0.5998742968746689">
+      <source w="656" h="830">4445308073<url>4445308073.png</url></source>
+      <sourceUrl>add_doctor.png</sourceUrl>
+    <resource><id>4445308073</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/7/8/afd34cf16243096290bc59f7b10ecda633542.png</url></resource></object>
+    <object id="81" type="image" x="40091.060388003505" y="-9355.225044815745" r="0" s="0.5998742968746689">
+      <source w="638" h="830">4445308238<url>4445308238.png</url></source>
+      <sourceUrl>edit_doctor.png</sourceUrl>
+    <resource><id>4445308238</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/4/8/2293dcd8fd6c22e4d42efdf05ce427dba95a3.png</url></resource></object>
+    <object id="82" type="button" x="38773.39562350268" y="-9520.167024074944" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="83" type="button" x="37938.75466562826" y="-10256.744745880193" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="84" type="button" x="37378.20141209001" y="-11250.666498152672" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="85" type="button" x="37227.220490412095" y="-12418.3098638334" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="86" type="button" x="37378.20141209001" y="-13461.934900140935" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="87" type="image" x="38773.39562350268" y="-9520.167024074944" r="0" s="0.5830160028173011">
+      <source w="661" h="854">4445309624<url>4445309624.png</url></source>
+      <sourceUrl>add_supplier.png</sourceUrl>
+    <resource><id>4445309624</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/b/80fa4d5db4c2e8afdc65b3276e72859c4f869.png</url></resource></object>
+    <object id="88" type="image" x="37938.75466562826" y="-10256.744745880193" r="0" s="0.5495537156798843">
+      <source w="647" h="906">4445309894<url>4445309894.png</url></source>
+      <sourceUrl>edit_supplier.png</sourceUrl>
+    <resource><id>4445309894</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/9/7/eb0b5e475789386643b7ec33811f2d3ddb446.png</url></resource></object>
+    <object id="89" type="image" x="37378.20141209001" y="-11250.666498152672" r="0" s="1.1550428682754246">
+      <source w="627" h="418">4445310071<url>4445310071.png</url></source>
+      <sourceUrl>drug.png</sourceUrl>
+    <resource><id>4445310071</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/7/b/b988bcd90f694bf1d945515ff3ec75c4faff2.png</url></resource></object>
+    <object id="92" type="button" x="40786.61850763696" y="-12295.63486646116" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="93" type="button" x="38897.22204830429" y="-12295.394985746703" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="94" type="button" x="38897.60585744743" y="-11361.683292802403" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="95" type="button" x="40593.61048478654" y="-11361.635316659516" r="0" s="1.0372826383457816" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="96" type="image" x="37226.02108683981" y="-12434.333895558988" r="0" s="0.7542808265876366">
+      <source w="662" h="659">4445313410<url>4445313410.png</url></source>
+      <sourceUrl>search_drug.png</sourceUrl>
+    <resource><id>4445313410</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/3/d/99a5a9d1f66d41f4fd4db100712828d51fef2.png</url></resource></object>
+    <object id="97" type="image" x="37378.20141209001" y="-13461.934900140935" r="0" s="1.1513702359438656">
+      <source w="629" h="392">4445313962<url>4445313962.png</url></source>
+      <sourceUrl>update_drug.png</sourceUrl>
+    <resource><id>4445313962</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/d/8/b93732ca8192268893598961838e980c535bc.png</url></resource></object>
+    <object id="98" type="image" x="40786.61850763696" y="-12295.63486646116" r="0" s="1.2324150158563747">
+      <source w="528" h="404">4445314481<url>4445314481.png</url></source>
+      <sourceUrl>Create%20Account.png</sourceUrl>
+    <resource><id>4445314481</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/c/7/0fedf9d09f53f5f018eccfada2d9b67bf0903.png</url></resource></object>
+    <object id="99" type="image" x="38897.22204830429" y="-12295.394985746703" r="0" s="1.2999886851330944">
+      <source w="542" h="383">4445314655<url>4445314655.png</url></source>
+      <sourceUrl>change_password.png</sourceUrl>
+    <resource><id>4445314655</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/f/f/f48767da097b2184e2fc24f83e3e08a890623.png</url></resource></object>
+    <object id="100" type="image" x="38897.55788130452" y="-11361.683292802403" r="0" s="0.6871080440310166">
+      <source w="1054" h="719">4445314808<url>4445314808.png</url></source>
+      <sourceUrl>oder.png</sourceUrl>
+    <resource><id>4445314808</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/1/2/81f5a13ab061c78f5560ff9ba84fe4d92bee0.png</url></resource></object>
+    <object id="101" type="image" x="40593.56250864365" y="-11361.635316659516" r="0" s="0.5465375042875691">
+      <source w="1041" h="911">4445314943<url>4445314943.png</url></source>
+      <sourceUrl>customer_order.png</sourceUrl>
+    <resource><id>4445314943</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/e/9/9fe78172bb111cf51d0223d502cf712cd754a.png</url></resource></object>
+    <object id="102" type="text" x="39674.4835392811" y="-13167.793168076323" r="0" s="13.693885999104673" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>307.3860003511297</width>
+      <p align="center">
+        <text><![CDATA[Appendix]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="103" type="shape" x="31660.907046837663" y="300.295582343366" r="-2.4342786326613154e-15" s="66.55695443502066" class="line3">
+      <geom type="arrow">
+        <sp>-39.10664063033984 0</sp>
+        <ep>39.10664063033984 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>clockwork2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="104" type="button" x="42725.413122735896" y="96.76020402824872" r="0" s="19.61931172135835" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="105" type="button" x="43609.60767907955" y="12085.152013324128" r="0" s="7.149894942185989" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="106" type="text" x="43520.24040348901" y="11990.85959508127" r="0" s="19.51184059366437" class="head">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>-151.3359375</width>
+      <p>
+        <text><![CDATA[Thank You]]></text>
+      </p>
+    </object>
+    <object id="107" type="text" x="41966.16422839359" y="-4984.786358636549" r="0" s="26.97906509447026" class="head">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>-121.1953125</width>
+      <p>
+        <text><![CDATA[Benefits]]></text>
+      </p>
+    </object>
+    <object id="108" type="text" x="43100.32365088033" y="-50.18024931430996" r="0" s="26.97906509447026" class="body">
+      <height>220.78125</height>
+      <width>479.26171875</width>
+      <p>
+        <text><![CDATA[1. It is possible for company to generate Monthly/Daily Report on different business logic]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2. Inventory management become better than never]]></text>
+      </p>
+      <p>
+        <text><![CDATA[3. There is more transparency and transactions are all recorded]]></text>
+      </p>
+      <p>
+        <text><![CDATA[4. Different Query is Possible]]></text>
+      </p>
+      <p>
+        <text><![CDATA[5. Reduce massive amount of manual work]]></text>
+      </p>
+    </object>
+    <object id="109" type="button" x="24524.15110901784" y="-11154.41100314764" r="0" s="8.736261557281354" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="111" type="text" x="24658.24250935242" y="-13409.422133178185" r="-4.431566739377567e-17" s="11.466902109584687" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>398.6332095303748</width>
+      <p align="center">
+        <text><![CDATA[SQL Syntax Used]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="112" type="text" x="23024.133273468804" y="-11394.51431457412" r="0" s="10.424456463258808" class="body">
+      <height>220.78125</height>
+      <width>-243.3046875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[CRAETE DATABASE]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[CREATE TABLE]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[INSERT]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[UPDATE]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[DELETE]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[SELECT]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[INNER JOIN]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[INNER LEFT JOIN]]></text>
+      </p>
+    </object>
+    <object id="113" type="text" x="25933.219375027027" y="-11373.802241901763" r="0" s="10.424456463258808" class="body">
+      <height>193.18359375</height>
+      <width>-150.890625</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[TOP]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[WHERE]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[ORDER BY]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[GROUP BY]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[IN]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[ON]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[BETWEEN]]></text>
+      </p>
+    </object>
+    <object id="114" type="button" x="21254.33325219151" y="96.7602040282487" r="0" s="19.61931172135835" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="116" type="text" x="21631.406544857477" y="-5641.618271019252" r="-4.4315667393775653e-17" s="19.251276667894444" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>398.6332095303748</width>
+      <p align="center">
+        <text><![CDATA[Functional Implementation]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="117" type="text" x="21961.18111777008" y="-871.1239359744374" r="0" s="24.526422813154788" class="body">
+      <height>303.57421875</height>
+      <width>532.3956918842684</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Add/ Update/ Delete Staff]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Add/ Update/ Delete Supplier]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Add/ Update/ Delete Drug]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Search for Drug information & Generate Report]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Add/ Update/ Delete Doctor]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Add/ Update/ Delete Customer]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Add/ Update/ Delete Account]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Change Password]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Place Order by Staff/ Customer]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Update/ Delete Order Information]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Search for Order information & Generate Report]]></text>
+      </p>
+    </object>
+    <object id="118" type="button" x="15715.493312564751" y="-10380.23533768158" r="0" s="8.736227780984548" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="119" type="text" x="15838.300724091372" y="-12847.761590262024" r="-4.4315667393775653e-17" s="8.572346493806299" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>398.6332095303748</width>
+      <p align="center">
+        <text><![CDATA[Query Implementation]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="120" type="button" x="13883.913862552869" y="-11969.961294242878" r="0" s="0.9186850730144664" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="121" type="button" x="17166.520240028218" y="-11969.86726100281" r="0" s="0.9186850730144664" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="122" type="button" x="18052.501427933137" y="-10998.127758157403" r="0" s="0.9186850730144664" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="123" type="button" x="13365.602643307284" y="-10998.31582463754" r="0" s="0.9186850730144664" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="124" type="button" x="13365.602643307282" y="-9811.99246796078" r="0" s="0.9186850730144664" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="125" type="text" x="13865.05590359086" y="-12030.132204674512" r="0" s="0.9106640707025712" class="body">
+      <height>220.78125</height>
+      <width>777.654689847398</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[In this system we can make queries to collect information about the selling condition of a pharmacy.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Like: ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• How many medicine have been sold at a period?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Which medicine have sold most?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• The earned money in total at a period of time? ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="126" type="text" x="13883.537729592605" y="-12184.545148074229" r="-4.4315667393775653e-17" s="1.4336605492399603" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>651.5041899073718</width>
+      <p align="center">
+        <text><![CDATA[Queries about sell at any time:]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="127" type="text" x="17145.120380131964" y="-11978.741512733102" r="0" s="0.9106640707025712" class="body">
+      <height>331.171875</height>
+      <width>777.654689847398</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[In this system one of the best thing is that we can make queries about the medicine information.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Like:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• How many medicines are of X company?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• What is the best use of the medicine?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Search medicine giving description as input.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Which are the cheapest medicines.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Which medicines have been produced in X year?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Which medicines will expire soon?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="128" type="text" x="17163.60220613371" y="-12183.46864603914" r="-4.4315667393775653e-17" s="1.43366054923996" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>651.5041899073718</width>
+      <p align="center">
+        <text><![CDATA[ Queries for medicine detail]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="129" type="text" x="18033.922565238863" y="-11078.483470026844" r="0" s="0.9106640707025712" class="body">
+      <height>165.5859375</height>
+      <width>777.654689847398</width>
+      <p>
+        <text><![CDATA[Using our proposed System we can make query to have information about]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Detail About patient who have taken medicine from our pharmacy]]></text>
+      </p>
+      <p>
+        <text><![CDATA[•  Prizes of medicines having same description but of different company.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="130" type="text" x="18051.087925879692" y="-11207.853151482246" r="-4.4315667393775653e-17" s="1.4336605492399603" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>651.5041899073718</width>
+      <p align="center">
+        <text><![CDATA[ Queries for analyzing Patient]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="131" type="text" x="13347.211847093156" y="-11056.869214745444" r="0" s="0.9106640707025712" class="body">
+      <height>220.78125</height>
+      <width>777.654689847398</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Which doctor is seeing more patient now a days?]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Which kind of medicines are suggested by doctor much?]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Which Doctor Prefers Which Drug for Which Disease?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="132" type="text" x="13364.377207733967" y="-11211.373224552231" r="-4.4315667393775653e-17" s="1.4336605492399603" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>651.5041899073718</width>
+      <p align="center">
+        <text><![CDATA[ Queries for Doctor Information]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="134" type="button" x="17873.27407236672" y="-9811.99246796078" r="0" s="0.9186850730144664" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="135" type="text" x="17872.427773206124" y="-10023.56725811001" r="-4.4315667393775653e-17" s="1.4336605492399603" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>651.5041899073718</width>
+      <p align="center">
+        <text><![CDATA[ Queries for Inventory Information]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="136" type="text" x="17954.437497804334" y="-9783.86320413068" r="0" s="1.4336605492399603" class="body">
+      <height>220.78125</height>
+      <width>552</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[How many medicines are left in stock?]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Which medicines are at large amount?]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Monthly/ Daily Report for Drug Sell]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Report for Supplier to understand the demand for different Drug]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Top 5% Drug those are sold ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="137" type="text" x="13357.985950861912" y="-10025.730022631536" r="-4.4315667393775653e-17" s="1.4336605492399603" class="strong">
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <style fontFamily="custom-fromwhereyouare" font-family="FromWhereYouAre"/>
+      <height>46.59375</height>
+      <width>651.5041899073718</width>
+      <p align="center">
+        <text><![CDATA[ Queries for Order Information]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="138" type="text" x="13136.17519446307" y="-9891.864228183556" r="0" s="0.7572073672960881" class="body">
+      <height>137.98828125</height>
+      <width>-439.4765625</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Delivery  Status of different Order]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Customer Information for different order]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Report on regular Customer]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Report on canceled Order Monthly/Yearly]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Report on Transactional History]]></text>
+      </p>
+    </object>
+    <object id="139" type="text" x="24450.335015565775" y="-9200.883798878236" r="0" s="10.424456463258808" class="body">
+      <height>82.79296875</height>
+      <width>338.17554068308846</width>
+      <p>
+        <text weight="bold"><![CDATA[35 Different combination of SQL Syntax has been used in this project]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="6.533808233169729" fadescale="0.12424634709285522">
+      <object id="background4252559117" type="image" x="14416.626312780378" y="92.5557647612016" r="0" s="15.509808393778137">
+        <source w="3744" h="3593">4252559117<url>4252559117.swf</url></source>
+        <sourceUrl>clockwork-02.swf</sourceUrl>
+        <extra>
+          <fixed_avm1_pos>1</fixed_avm1_pos>
+        </extra>
+      <resource><id>4252559117</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/c/7/f3c8e7f3fdb0311225924d56b23cda662d108.swf</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="0_30863873"/>
+    </s>
+    <s>
+      <eagle o="21"/>
+    </s>
+    <s>
+      <eagle o="32"/>
+    </s>
+    <s>
+      <eagle o="1_30863873"/>
+    </s>
+    <s>
+      <eagle o="40_30863873"/>
+    </s>
+    <s>
+      <eagle o="36_30863873"/>
+    </s>
+    <s>
+      <eagle o="30"/>
+    </s>
+    <s>
+      <eagle o="31"/>
+    </s>
+    <s>
+      <eagle o="43"/>
+    </s>
+    <s>
+      <eagle o="55"/>
+    </s>
+    <s>
+      <eagle o="46"/>
+    </s>
+    <s>
+      <eagle o="12_30863873"/>
+    </s>
+    <s>
+      <eagle o="27_30863873"/>
+    </s>
+    <s>
+      <eagle o="31_30863873"/>
+    </s>
+    <s>
+      <eagle o="59"/>
+    </s>
+    <s>
+      <eagle o="63"/>
+    </s>
+    <s>
+      <eagle o="114"/>
+    </s>
+    <s>
+      <eagle o="118"/>
+    </s>
+    <s>
+      <eagle o="120"/>
+    </s>
+    <s>
+      <eagle o="121"/>
+    </s>
+    <s>
+      <eagle o="122"/>
+    </s>
+    <s>
+      <eagle o="123"/>
+    </s>
+    <s>
+      <eagle o="134"/>
+    </s>
+    <s>
+      <eagle o="124"/>
+    </s>
+    <s>
+      <eagle o="109"/>
+    </s>
+    <s>
+      <eagle o="104"/>
+    </s>
+    <s>
+      <eagle o="67"/>
+    </s>
+    <s>
+      <eagle o="68"/>
+    </s>
+    <s>
+      <eagle o="69"/>
+    </s>
+    <s>
+      <eagle o="70"/>
+    </s>
+    <s>
+      <eagle o="71"/>
+    </s>
+    <s>
+      <eagle o="72"/>
+    </s>
+    <s>
+      <eagle o="73"/>
+    </s>
+    <s>
+      <eagle o="74"/>
+    </s>
+    <s>
+      <eagle o="82"/>
+    </s>
+    <s>
+      <eagle o="83"/>
+    </s>
+    <s>
+      <eagle o="84"/>
+    </s>
+    <s>
+      <eagle o="85"/>
+    </s>
+    <s>
+      <eagle o="86"/>
+    </s>
+    <s>
+      <eagle o="92"/>
+    </s>
+    <s>
+      <eagle o="93"/>
+    </s>
+    <s>
+      <eagle o="94"/>
+    </s>
+    <s>
+      <eagle o="95"/>
+    </s>
+    <s>
+      <eagle o="105"/>
+    </s>
+    <s>
+      <eagle o="0_30863873"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Tinos-Italic.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('FromWhereYouAre-Regular.keg');
+	fontFamily: custom-fromwhereyouare;
+	font-class: custom-fromwhereyouare;
+	font-style: normal;
+	font-weight: normal;
+	font-family: FromWhereYouAre;
+}
+
+@font-face
+{
+	src: url('Sanchez-Regular.keg');
+	fontFamily: custom-sanchez;
+	font-class: custom-sanchez;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Sanchez;
+}
+
+@font-face
+{
+	src: url('WorkSans-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: WorkSans;
+}
+
+@font-face
+{
+	src: url('WorkSans-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: WorkSans;
+}
+
+@font-face
+{
+	src: url('Tinos-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Tinos-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Tinos-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Sanchez-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Sanchez;
+}
+
+@font-face
+{
+	src: url('WorkSans-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: WorkSans;
+}
+
+.line1
+{
+	color: #666;
+	gradEndColor: #666;
+	gradStartColor: #666;
+}
+
+.line2
+{
+	color: #bc461d;
+	gradEndColor: #bc461d;
+	gradStartColor: #bc461d;
+}
+
+.line3
+{
+	color: #4bffbe;
+	gradEndColor: #4bffbe;
+	gradStartColor: #4bffbe;
+}
+
+.line4
+{
+	color: #afbeb9;
+	gradEndColor: #afbeb9;
+	gradStartColor: #afbeb9;
+}
+
+.line5
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly1
+{
+	gradEndColor: #666;
+	gradStartColor: #666;
+}
+
+.poly2
+{
+	gradEndColor: #bc461d;
+	gradStartColor: #bc461d;
+}
+
+.poly3
+{
+	gradEndColor: #4bffbe;
+	gradStartColor: #4bffbe;
+}
+
+.poly4
+{
+	gradEndColor: #afbeb9;
+	gradStartColor: #afbeb9;
+}
+
+.poly5
+{
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+Background
+{
+	gradEnd: #0a0a1e;
+	gradStart: #0a0a1e;
+}
+
+Grid
+{
+	color: #1c1c56;
+}
+
+ZArrow
+{
+	gradEndAlpha: 1;
+	gradEndColor: #333;
+	gradStartAlpha: 1;
+	gradStartColor: #333;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #4bffbe;
+	gradStartAlpha: 1;
+	gradStartColor: #4bffbe;
+	padding: 1.03;
+	thickness: 7;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: .75;
+	gradEndColor: #4bffbe;
+	gradStartAlpha: .75;
+	gradStartColor: #4bffbe;
+	padding: 1.03;
+	thickness: 12;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #4bffbe;
+	borderThickness: 10;
+	gradEndAlpha: .7;
+	gradEndColor: #0a0a1e;
+	gradStartAlpha: .7;
+	gradStartColor: #0a0a1e;
+	padding: 1.03;
+	radius: 0;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #222263;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #fff;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.7;
+	background-color: #4bffbe;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.7;
+	background-color: #4bffbe;
+	background-padding: 5;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.65;
+	color: #ea5724;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+circle free-line
+{
+	color: #333;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	thickness: 7;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	radius: 0;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+shape
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+]]></style>
+  <hash>48a0aea2</hash>
+<sync><oid>mgtawo-k7gry</oid><title>pharmacy-management-system</title><hash>48a0aea2</hash></sync><config>cxX2d940KE4CHYzG+CZRRhA98sgpauUIye6xX9aIpUdu/cJEDNIob58JvpQPN2YNe1ulKSMhLfS+6CwdA9BviqJFL0byye0CNKIQ5yiX42oI1Vx8Su84DWkivA08m0weBmuzXVtbJKbKIj4OQ8TkqOxf/tChk9NxlbVSBJm5C2c2SE8GGVVs2ZLzLiz0LNbxzTic9bkQSJ8/4ZrZ1sfjQsaU1LRd8n7a4fO/KLghiKVRaH/7O5mmZCJOjTnsMQX8jIsLUA9aC6C1OuJEQpVzI0/Sjz53pMRebCoOtR9CQDfovzxkjsWSfyoa3XeEtJh0ezA/8BOlGqMoAKwL+uKbtg==</config></zuiprezi>

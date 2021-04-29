@@ -1,0 +1,7 @@
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\DLL\bin\Debug\DLL.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\DLL\bin\Debug\DLL.pdb
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\DLL\obj\Debug\DLL.csprojResolveAssemblyReference.cache
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\DLL\obj\Debug\DLL.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\DLL\obj\Debug\DLL.pdb
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\DLL\bin\Debug\Entity.dll
+C:\Users\rilus\Documents\Visual Studio 2015\Projects\Pharmacy Management System\DLL\bin\Debug\Entity.pdb
